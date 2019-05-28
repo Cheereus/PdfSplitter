@@ -32,7 +32,7 @@ pip install pdfminer.six
 3. 在 windows cmd 中将 pdfs 目录下的 pdf 文件批量转为 txts 目录下的 txt 文件
 
 ```
-for /r %i in (*.pdf) do pdf2txt.py %~ni.pdf -o ..\txts\%~ni.txt
+for /r %i in (pdfs\*.pdf) do pdf2txt.py pdfs\%~ni.pdf -o txts\%~ni.txt
 ```
 
 4. 运行 splitter
