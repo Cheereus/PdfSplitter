@@ -1,5 +1,8 @@
 # PdfSplitter
 
+[![GitHub issues](https://img.shields.io/github/issues/Cheereus/PdfSplitter.svg?style=flat)](https://github.com/Cheereus/PdfSplitter/issues)
+[![](https://img.shields.io/github/stars/Cheereus/PdfSplitter.svg?style=social&label=Star)](https://github.com/Cheereus/PdfSplitter)
+
 pdf中文词频统计解决方案
 
 初衷是为了解决一位朋友大规模 CNKI 中文文献内容词频统计的需求
